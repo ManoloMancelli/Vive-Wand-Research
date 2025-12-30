@@ -23,6 +23,7 @@
 - Battery is not required but there can be loss of tracking if USB voltage is unstable
 - Check if battery can be bypassed with direct voltage to the pins
 - Absolutely needs the Touchpad board for it to work
+- Doesn't need that big Touchpad component. Only round PCB matters
 
 ## Software
 
