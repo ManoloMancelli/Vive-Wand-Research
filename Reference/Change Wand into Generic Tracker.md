@@ -11,7 +11,8 @@ Indeed, there are only three lines you have to change. it should be easy to do b
          0.9991,
          0.9988
      ],
--    "device_class": "controller",
+	 $${\color{red}-    "device_class": "controller",}$$
+
 +    "device_class": "generic_tracker",
      "device_pid": 8210,
      "device_serial_number": "LHR-FFA12345",
@@ -29,4 +30,4 @@ Indeed, there are only three lines you have to change. it should be easy to do b
          0,
          0.7253744006156921,
 ```
-{\color{red}Red}
+$${\color{red}Red}$$
