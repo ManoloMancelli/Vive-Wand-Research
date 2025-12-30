@@ -34,7 +34,4 @@ Right connector is a 33pin FFC connector with 0.3mm pitch
 
 ![1](/img/connector%204.jpeg)
 
-Voltage is rated at 3.85V and capacity is 960mAH
-
-![1](/img/Battery%20with%20cradle.jpeg)
 
