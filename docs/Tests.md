@@ -19,7 +19,8 @@
 
 - Check for the minimal component configuration required to run tracking
 
-- Power Button is required for it to work
+- Power Button may not be required for it to work
+- Battery is required
 
 ## Mechanical
 
