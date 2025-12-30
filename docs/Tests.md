@@ -19,6 +19,8 @@
 
 - Check for the minimal component configuration required to run tracking
 
+- Power Button is required for it to work
+
 ## Mechanical
 
 ### Check which material can be used for sensor coverings
