@@ -4,7 +4,7 @@ Make the following edits (don’t include the - and + at the beginning. that’s
 
 Indeed, there are only three lines you have to change. it should be easy to do by hand.
 
-'''
+```
 --- LHR-FFA12345orig.json       2019-09-03 20:58:58.389611800 -0700
 +++ LHR-FFA12345.json   2019-09-03 21:48:01.618036900 -0700
 @@ -9,7 +9,7 @@
@@ -28,6 +28,4 @@ Indeed, there are only three lines you have to change. it should be easy to do b
      "trackref_from_head": [
          0,
          0.7253744006156921,
-```
-chuj
 ```
