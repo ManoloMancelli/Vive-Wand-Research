@@ -36,13 +36,13 @@ Right connector is a 33pin FFC connector with 0.3mm pitch
 
 #### Main IC
 
-![1](/img/connector%204.jpeg)
+![1](/img/Main%20IC.jpeg)
 
 #### MCU
 
-![1](/img/connector%204.jpeg)
+![1](/img/MCU.jpeg)
 
 #### Gyroscope
 
-![1](/img/connector%204.jpeg)
+![1](/img/Gyroscope.jpeg)
 
