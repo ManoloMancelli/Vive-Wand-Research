@@ -19,7 +19,7 @@
 
 - Check for the minimal component configuration required to run tracking
 
-- Power Button may not be required for it to work
+- Power button is not required. Controller will power on when USB cable is plugged in
 - Battery is not required but there can be loss of tracking if USB voltage is unstable
 - Check if battery can be bypassed with direct voltage to the pins
 - Absolutely needs the Touchpad board for it to work
