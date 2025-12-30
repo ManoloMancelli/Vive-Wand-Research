@@ -20,6 +20,10 @@ Right connector is a 33pin FFC connector with 0.3mm pitch
 
 ![1](/img/Tracking%20Connectors.jpeg)
 
+#### Top Button Connector
+
+![1](/img/connector%201.jpeg)
+
 #### Connector 2
 
 ![1](/img/connector%202.jpeg)
