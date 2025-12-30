@@ -1,3 +1,6 @@
 # Vive-Wand-Research
 
-- ### [Front](/Mechanical/Front/Front.md)
+- ### [Components](/docs/Components.md)
+- ### [Connectors](/docs/Connectors.md)
+- ### [IC's](/docs/ICs.md)
+- ### [Tests](/docs/Tests.md)
