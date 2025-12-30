@@ -11,8 +11,8 @@ Indeed, there are only three lines you have to change. it should be easy to do b
          0.9991,
          0.9988
      ],
-### DELETE    "device_class": "controller",
-### ADD    "device_class": "generic_tracker",
+-    "device_class": "controller",
++    "device_class": "generic_tracker",
      "device_pid": 8210,
      "device_serial_number": "LHR-FFA12345",
      "device_vid": 10462,
