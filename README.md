@@ -24,7 +24,7 @@ Right connector is a 33pin FFC connector with 0.3mm pitch
 
 ![1](/img/connector1.jpeg)
 
-#### Connector 2
+#### Trackpad Connector
 
 ![1](/img/connector%202.jpeg)
 
