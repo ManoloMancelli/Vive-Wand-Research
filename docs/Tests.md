@@ -29,6 +29,7 @@
 - Doesn't require Dongle. Works over USB
 - While using USB, lower quality cables will result in tracking losses or no tracking at all
 - Works best with Dongle
+- Works as tracker after JSON changes
 
 ## Mechanical
 
