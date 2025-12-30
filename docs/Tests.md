@@ -23,6 +23,11 @@
 - Battery is required
 - Check if battery can be bypassed with direct voltage to the pins
 
+## Software
+
+- Doesn't require Dongle. Works over USB
+- Make sure activateMultipleDrivers" : true is inside steamvr.vrsettings
+
 ## Mechanical
 
 ### Check which material can be used for sensor coverings
