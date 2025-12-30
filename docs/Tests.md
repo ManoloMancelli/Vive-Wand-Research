@@ -18,3 +18,7 @@
 ## Components
 
 - Check for the minimal component configuration required to run tracking
+
+## Mechanical
+
+- Check which material can be used for sensor coverings
