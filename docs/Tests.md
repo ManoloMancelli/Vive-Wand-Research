@@ -21,6 +21,6 @@
 
 ## Mechanical
 
-### - Check which material can be used for sensor coverings
+- ### Check which material can be used for sensor coverings
 
 - Floppy disks don't work 
