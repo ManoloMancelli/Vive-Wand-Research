@@ -44,5 +44,7 @@ Right connector is a 33pin FFC connector with 0.3mm pitch
 
 #### Gyroscope
 
+Vive Wand uses a pretty standard MPU6500 which is quite cheap and easily affordable.
+
 ![1](/img/Gyroscope.jpeg)
 
