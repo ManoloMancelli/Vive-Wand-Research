@@ -20,7 +20,7 @@ Right connector is a 33pin FFC connector with 0.3mm pitch
 
 ![1](/img/Tracking%20Connectors.jpeg)
 
-#### Top Button Connector
+#### Menu Button Connector
 
 ![1](/img/connector1.jpeg)
 
@@ -28,11 +28,11 @@ Right connector is a 33pin FFC connector with 0.3mm pitch
 
 ![1](/img/connector%202.jpeg)
 
-#### Connector 3
+#### Grip Button Connector
 
 ![1](/img/connector%203.jpeg)
 
-#### Bottom Button Connector
+#### System Button Connector
 
 ![1](/img/connector%204.jpeg)
 
