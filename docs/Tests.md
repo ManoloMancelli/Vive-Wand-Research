@@ -21,6 +21,7 @@
 
 - Power Button may not be required for it to work
 - Battery is required
+- Check if battery can be bypassed with direct voltage to the pins
 
 ## Mechanical
 
