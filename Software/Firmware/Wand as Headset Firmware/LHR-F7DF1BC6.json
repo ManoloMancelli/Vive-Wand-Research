@@ -10,8 +10,8 @@
         0.9984
     ],
     "device": {
-        "eye_target_height_in_pixels": 1440,
-        "eye_target_width_in_pixels": 1440,
+        "eye_target_height_in_pixels": 1080,
+        "eye_target_width_in_pixels": 960,
         "first_eye": "eEYE_LEFT",
         "last_eye": "eEYE_RIGHT",
         "num_windows": 1,
