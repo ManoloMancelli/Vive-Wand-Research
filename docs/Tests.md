@@ -20,15 +20,15 @@
 - Check for the minimal component configuration required to run tracking
 
 - Power Button may not be required for it to work
-- Battery is required
+- Battery is not required but there can be loss of tracking if USB voltage is unstable
 - Check if battery can be bypassed with direct voltage to the pins
+- Absolutely needs the Touchpad board for it to work
 
 ## Software
 
 - Doesn't require Dongle. Works over USB
 - While using USB, lower quality cables will result in tracking losses or no tracking at all
 - Works best with Dongle
-- Make sure activateMultipleDrivers" : true is inside steamvr.vrsettings
 
 ## Mechanical
 
