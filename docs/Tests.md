@@ -14,3 +14,7 @@
 ## Sensors
 
 - Check if tracking will work with sensors only on one side
+
+## Components
+
+- Check for the minimal component configuration required to run tracking
