@@ -13,7 +13,7 @@
 
 - ### [Stock Wand Firmware](/Software/Firmware/Stock%20Firmware)
 - ### [Wand as Generic Tracker Firmware](/Software/Firmware/Wand%20as%20Generic%20Tracker)
-- 
+
 ## Hardware Mods
 
 - ### Touchpad board trimming (wip)
