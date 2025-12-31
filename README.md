@@ -24,6 +24,9 @@
 - ### Touchpad board trimming (wip)
 - ### Main PCB trimming (wip)
 - ### Tracking "Dome" extender (wip)
+- ### Battery bypass (wip)
+- ### Power Button mod (wip)
+- ### USB-C mod (wip)
 
 ## References
 
