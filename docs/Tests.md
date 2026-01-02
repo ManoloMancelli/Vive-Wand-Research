@@ -25,6 +25,9 @@ Only Right FFC connected - Sensors 0-10 working (front)
 
 Test Succesful. Tracking does work with one side obstructed.
 
+- ### Check if rear and front sensor FFCs are separate 
+- ### Check if it's possible to remove rear sensors completely
+
 ## Components
 
 - ### Check for the minimal component configuration required to run tracking
