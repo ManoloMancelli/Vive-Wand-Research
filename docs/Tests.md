@@ -15,6 +15,8 @@
 
 - Check if tracking will work with sensors only on one side
 
+Test Succesful. Tracking does work with one side obstructed.
+
 ## Components
 
 - Check for the minimal component configuration required to run tracking
