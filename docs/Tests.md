@@ -2,6 +2,7 @@
 
 ## Connectors
 
+- ### Check if it;s possible to solder the connector directly on FFC 
 - ### Check if it's possible to extend the tracking module reach with FFC ribbons
 - ### Check if tracking will work with only one FFC connected
 
