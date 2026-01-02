@@ -7,7 +7,9 @@
 
 Both FFC connected - Sensor 0-23 working
 
+Only Left FFC connected - Sensors 11-23 working (rear)
 
+Only Right FFC connected - Sensors 0-10 working (front)
 
 
 ## Gyroscope
