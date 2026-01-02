@@ -32,7 +32,7 @@ Test Succesful. Tracking does work with one side obstructed.
 
 - ### Check for the minimal component configuration required to run tracking
 
-Power button is not required. Controller will power on when USB cable is plugged in
+Power button is not required. Controller will (sometimes) power on when USB cable is plugged in
 
 Battery is not required but there can be loss of tracking if USB voltage is unstable
 
