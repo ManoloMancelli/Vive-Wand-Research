@@ -13,13 +13,13 @@
 
 ## Sensors
 
-- #### Check if tracking will work with sensors only on one side
+- ### Check if tracking will work with sensors only on one side
 
 Test Succesful. Tracking does work with one side obstructed.
 
 ## Components
 
-- #### Check for the minimal component configuration required to run tracking
+- ### Check for the minimal component configuration required to run tracking
 
 Power button is not required. Controller will power on when USB cable is plugged in
 
