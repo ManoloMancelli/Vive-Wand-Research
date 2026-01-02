@@ -2,14 +2,14 @@
 
 ## Connectors
 
-- Check if it's possible to extend the tracking module reach with FFC ribbons
-- Check if tracking will work with only one FFC connected
+- ### Check if it's possible to extend the tracking module reach with FFC ribbons
+- ### Check if tracking will work with only one FFC connected
 
 ## Gyroscope
 
-- Check if it's possible to use tracking with different gyroscope position
-- Check if it's possible to use tracking with gyroscope disabled
-- Check if it's possible to use tracking without disabling the gyroscope but with gyroscope desoldered
+- ### Check if it's possible to use tracking with different gyroscope position
+- ### Check if it's possible to use tracking with gyroscope disabled
+- ### Check if it's possible to use tracking without disabling the gyroscope but with gyroscope desoldered
 
 ## Sensors
 
@@ -29,7 +29,7 @@ Absolutely needs the Touchpad board for it to work
 
 Doesn't need that big Touchpad component. Only round PCB matters
 
-- Check if battery can be bypassed with direct voltage to the pins
+- ### Check if battery can be bypassed with direct voltage to the pins
 
 
 ## Software
@@ -41,6 +41,6 @@ Doesn't need that big Touchpad component. Only round PCB matters
 
 ## Mechanical
 
-### Check which material can be used for sensor coverings
+- ### Check which material can be used for sensor coverings
 
 - Floppy disks don't work 
