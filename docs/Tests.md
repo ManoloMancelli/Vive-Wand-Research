@@ -5,6 +5,11 @@
 - ### Check if it's possible to extend the tracking module reach with FFC ribbons
 - ### Check if tracking will work with only one FFC connected
 
+Both FFC connected - Sensor 0-23 working
+
+
+
+
 ## Gyroscope
 
 - ### Check if it's possible to use tracking with different gyroscope position
